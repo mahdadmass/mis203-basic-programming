@@ -15,6 +15,3 @@ python lab05_shipping_quote.py
 ## print vs return
 - `print` only shows a value on the screen. The program cannot use it later.
 - `return` gives the value back to the code that called the function, so it can be saved, used in calculations, or tested with `assert`.
-
-## Submission
-Saved in my course repository at `week05/lab-quiz/lab05_shipping_quote.py`.
